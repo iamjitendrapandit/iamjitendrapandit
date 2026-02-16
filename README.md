@@ -5,7 +5,7 @@ Cybersecurity Enthusiast | Final Year Computer Science Student | Offensive Secur
 </p>
 
 <p align="center">
-<img src="profile.png" width="180" style="border-radius:50%" />
+<img src="profile.png" width="180" />
 </p>
 
 <p align="center">
@@ -20,9 +20,9 @@ Cybersecurity Enthusiast | Final Year Computer Science Student | Offensive Secur
 
 - 🎓 Final Year **Computer Science** — The British College, Kathmandu
 - 🛡️ Cybersecurity Enthusiast
-- 👨‍💼 Vice President — College Cybersecurity Club
+- 👨‍💼 Vice President — Cybersecurity Club
 - 💼 Former Cybersecurity Intern — Cipherstrix
-- ⚔️ Focus: Offensive Security & Practical Labs
+- ⚔️ Focus: Offensive Security, Pentesting & VAPT
 
 ---
 
@@ -43,7 +43,7 @@ Cybersecurity Enthusiast | Final Year Computer Science Student | Offensive Secur
 <img src="https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnu-bash"/>
 <img src="https://img.shields.io/badge/Offensive_Security-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Network_Security-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Penetration_Testing-darkred?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pentesting-darkred?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/VAPT-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Bug_Bounty-green?style=for-the-badge"/>
 </p>
