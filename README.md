@@ -53,7 +53,7 @@ Cybersecurity Enthusiast | Final Year Computer Science Student | Offensive Secur
 ## 🧠 TryHackMe Progress
 
 <p align="center">
-<img src="<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4174079" style='border:none;'></iframe>" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/4174079.svg" alt="TryHackMe Badge" />
 </p>
 
 ## 🔬 Current Focus
