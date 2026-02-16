@@ -50,12 +50,6 @@ Cybersecurity Enthusiast | Final Year Computer Science Student | Offensive Secur
 
 ---
 
-## 🧠 TryHackMe Progress
-
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/4174079.svg" alt="TryHackMe Badge" />
-</p>
-
 ## 🔬 Current Focus
 
 - Offensive Security Labs
