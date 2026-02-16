@@ -29,8 +29,8 @@ Cybersecurity Enthusiast | Final Year Computer Science Student | Offensive Secur
 ## ⚡ GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=iamjitendrapandit&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamjitendrapandit&theme=tokyonight"/>
 </p>
 
 ---
@@ -71,5 +71,5 @@ Cybersecurity Enthusiast | Final Year Computer Science Student | Offensive Secur
 ## 🐍 Contribution Animation
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/snake.svg"/>
+<img src="https://raw.githubusercontent.com/iamjitendrapandit/iamjitendrapandit/output/snake.svg"/>
 </p>
