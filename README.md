@@ -50,6 +50,12 @@ Cybersecurity Enthusiast | Final Year Computer Science Student | Offensive Secur
 
 ---
 
+## 🧠 TryHackMe Progress
+
+<p align="center">
+<img src="<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4174079" style='border:none;'></iframe>" />
+</p>
+
 ## 🔬 Current Focus
 
 - Offensive Security Labs
